@@ -1,0 +1,10 @@
+include/keys
+soapui/
+certificados_tbk/
+certificate_server/
+certificados_generados/
+documentacion/
+include/constantes.php
+include/Conexion.php
+logs/
+desktop.ini
